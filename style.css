@@ -1,0 +1,37 @@
+body { 
+background-color: #A9BD93;
+ }
+
+h1 {
+   color: #6a9167;
+   text-align: center;
+   font-family: "Alegreya";
+   font-size: 45px;
+}
+ h2, h3{
+ 	color: #2d432b;
+ 	text-align: left;
+ 	font-family:  "Carrier New";
+ 	font-size: 20px;
+ }
+
+ p, li, a {
+    color: #black;
+ 	font-family: "Dosis";
+ 	text-align: center;
+ 	font-size: 20px;
+ }
+
+ img {
+   border-color: #C0C791;
+   border-width: 6px;
+   border-style: solid;
+   border-radius: 5%;
+ }
+
+ .center {
+   display: block;
+   width: 30%;
+   margin-left: auto;
+   margin-right: auto;
+ }
